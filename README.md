@@ -1,4 +1,4 @@
-Desc: README for the pp6calculator project.
+Description: README for the pp6calculator project.
 
 Author:Lilian Garratt-Smithson
 
